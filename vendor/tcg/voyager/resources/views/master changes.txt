@@ -1,0 +1,72 @@
+4324 : <!-- <img class="h-20px w-20px rounded-sm" src="{{ Voyager::image('media/svg/flags/226-united-states.svg') }}" alt="" /> -->
+
+4336 : <img src="{{ Voyager::image('media/svg/flags/226-united-states.svg') }}" alt="" />
+
+4346 : <img src="{{ Voyager::image('media/svg/flags/128-spain.svg') }}" alt="" />
+
+4356 :<img src="{{ Voyager::image('media/svg/flags/162-germany.svg') }}" alt="" />
+
+4366 : <img src="{{ Voyager::image('media/svg/flags/063-japan.svg') }}" alt="" />
+
+4376 : <img src="{{ Voyager::image('media/svg/flags/195-france.svg') }}" alt="" />
+
+4774 : <img src="{{ Voyager::image('media/svg/avatars/004-boy-1.svg') }}" class="h-75 align-self-end" alt="" />
+
+
+
+
+
+
+4781 : <img src="{{ Voyager::image('media/svg/avatars/002-girl.svg') }}" class="h-75 align-self-end" alt="" />
+5221 : <img src="{{ Voyager::image('media/svg/misc/006-plurk.svg') }}" class="h-50 align-self-center" alt="" />
+5296 : <img src="{{ Voyager::image('media/svg/misc/015-telegram.svg') }}" class="h-50 align-self-center" alt="" />
+5363 : <img src="{{ Voyager::image('media/svg/misc/003-puzzle.svg') }}" class="h-50 align-self-center" alt="" />
+5430 : <img src="{{ Voyager::image('media/svg/misc/005-bebo.svg') }}" class="h-50 align-self-center" alt="" />
+5497 : <img src="{{ Voyager::image('media/svg/misc/014-kickstarter.svg') }}" class="h-50 align-self-center" alt="" />
+5638 : <img src="{{ Voyager::image('media/svg/avatars/009-boy-4.svg') }}" class="h-75 align-self-end" alt="" />
+5713 : <img src="{{ Voyager::image('media/svg/avatars/006-girl-3.svg') }}" class="h-75 align-self-end" alt="" />
+5788 : <img src="{{ Voyager::image('media/svg/avatars/011-boy-5.svg') }}" class="h-75 align-self-end" alt="" />
+5863 : <img src="{{ Voyager::image('media/svg/avatars/015-boy-6.svg') }}" class="h-75 align-self-end" alt="" />
+5938 : <img src="{{ Voyager::image('media/svg/avatars/016-boy-7.svg') }}" class="h-75 align-self-end" alt="" />
+6558 : <img src="{{ Voyager::image('media/svg/misc/006-plurk.svg') }}" class="h-50 align-self-center" alt="" />
+6582 : <img src="{{ Voyager::image('media/svg/misc/015-telegram.svg') }}" class="h-50 align-self-center" alt="" />
+6606 : <img src="{{ Voyager::image('media/svg/misc/014-kickstarter.svg') }}" class="h-50 align-self-center" alt="" />
+6771 : <img src="{{ Voyager::image('media/svg/avatars/001-boy.svg') }}" class="h-75 align-self-end" alt="" />
+6805 : <img src="{{ Voyager::image('media/svg/avatars/018-girl-9.svg') }}" class="h-75 align-self-end" alt="" />
+6839 : <img src="{{ Voyager::image('media/svg/avatars/047-girl-25.svg') }}" class="h-75 align-self-end" alt="" />
+6873 : <img src="{{ Voyager::image('media/svg/avatars/014-girl-7.svg') }}" class="h-75 align-self-end" alt="" />
+7398 : <img src="{{ Voyager::image('media/svg/misc/006-plurk.svg') }}" class="h-50 align-self-center" alt="" />
+7412 : <img src="{{ Voyager::image('media/svg/misc/015-telegram.svg') }}" class="h-50 align-self-center" alt="" />
+7426 : <img src="{{ Voyager::image('media/svg/misc/003-puzzle.svg') }}" class="h-50 align-self-center" alt="" />
+7440 : <img src="{{ Voyager::image('media/svg/misc/005-bebo.svg') }}" class="h-50 align-self-center" alt="" />
+7554 : <img src="{{ Voyager::image('media/svg/misc/014-kickstarter.svg') }}" class="h-50 align-self-center" alt="" />	
+
+
+6793:<img src="{{ Voyager::image('media/logos/stars.png') }}" alt="image" style="width: 5.5rem" />
+6827:<img src="{{ Voyager::image('media/logos/stars.png') }}" alt="image" style="width: 5.5rem" />
+6861:<img src="{{ Voyager::image('media/logos/stars.png') }}" alt="image" style="width: 5.5rem" />
+6873 :<img src="{{ Voyager::image('media/svg/avatars/014-girl-7.svg') }}" class="h-75 align-self-end" alt="" />
+6894:<img src="{{ Voyager::image('media/logos/stars.png') }}" style="width: 5.5rem" alt="" />
+7239:<img src="{{ Voyager::image('media/stock-600x400/img-1.jpg') }}" title="" alt="" />
+7264:<img src="{{ Voyager::image('media/stock-600x400/img-2.jpg') }}" title="" alt="" />
+7289:<img src="{{ Voyager::image('media/stock-600x400/img-3.jpg') }}" title="" alt="" />
+7314:<img src="{{ Voyager::image('media/stock-600x400/img-4.jpg') }}" title="" alt="" />
+7339:<img src="{{ Voyager::image('media/stock-600x400/img-8.jpg') }}" title="" alt="" />
+8013:<img alt="Pic" src="{{ Voyager::image('media/users/300_12.jpg') }}" />
+8031:<img alt="Pic" src="{{ Voyager::image('media/users/300_21.jpg') }}" />
+8041:<img alt="Pic" src="{{ Voyager::image('media/users/300_21.jpg') }}" />
+8059:<img alt="Pic" src="{{ Voyager::image('media/users/300_21.jpg') }}" />
+8069:<img alt="Pic" src="{{ Voyager::image('media/users/300_12.jpg') }}" />
+8088:<img alt="Pic" src="{{ Voyager::image('media/users/300_21.jpg') }}" />
+8098:<img alt="Pic" src="{{ Voyager::image('media/users/300_12.jpg') }}" />
+8116:<img alt="Pic" src="{{ Voyager::image('media/users/300_21.jpg') }}" />												
+
+8511 : <script src="{{ voyager_asset('plugins/global/plugins.bundle.js') }}"></script>
+		<script src="{{ voyager_asset('plugins/custom/prismjs/prismjs.bundle.js') }}"></script>
+		<script src="{{ voyager_asset('js/scripts.bundle.js') }}"></script>
+		<!--end::Global Theme Bundle-->
+		<!--begin::Page Vendors(used by this page)-->
+		<script src="{{ voyager_asset('plugins/custom/fullcalendar/fullcalendar.bundle.js') }}"></script>
+		<!--end::Page Vendors-->
+		<!--begin::Page Scripts(used by this page)-->
+		<script src="{{ voyager_asset('js/pages/widgets.js') }}"></script>
